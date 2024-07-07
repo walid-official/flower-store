@@ -116,3 +116,51 @@ img{
     font-weight: 600;
     margin-top: 15px;
 }
+/* Flower offer Area */
+.offer-area{
+    background-color: rgba(229, 84, 115, 30%);
+    padding: 80px 0;
+    margin: 100px 0;
+}
+.flower-offer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flower-content{
+    text-align: center;
+}
+.flower-content h2 span{
+    color:#E55473
+}
+.flower-content p{
+    font-size: 16px;
+    color: #272727;
+    width: 65%;
+    margin: 15px auto;
+    text-align: center;
+}
+/* Flower offer Area */
+.offer-area{
+    background-color: rgba(229, 84, 115, 30%);
+    padding: 80px 0;
+    margin: 100px 0;
+}
+.flower-offer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flower-content{
+    text-align: center;
+}
+.flower-content h2 span{
+    color:#E55473
+}
+.flower-content p{
+    font-size: 16px;
+    color: #272727;
+    width: 65%;
+    margin: 15px auto;
+    text-align: center;
+}
