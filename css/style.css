@@ -49,3 +49,70 @@ img{
     width: 80%;
 }
 /* Header Area End */
+
+* Feature Area Start */
+.feature-title{
+    margin: 80px 0;
+}
+.feature-title h2{
+    font-size: 40px;
+    text-align: center;
+}
+.feature-title p{
+    font-size: 16px;
+    color: #272727;
+    width: 35%;
+    margin: 15px auto;
+    text-align: center;
+}
+.feature-flower{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+.feature-img img{
+    background-color: rgba(229, 84, 115, 18%);
+    border-radius: 50% 50% 0px 0px;
+    width: 400px;
+    height: 450px;
+    object-fit: contain;
+    padding: 50px 0 0 0;
+}
+.feature-img .sky-bg{
+    background-color: rgba(5, 151, 160, 15%);
+}
+.feature-img .green-bg{
+    background-color: rgba(71,125,17,15%);
+}
+.flower-title{
+    display: block;
+    text-align: center;
+    color: #272727;
+    font-weight: 600;
+    margin: 30px 0;
+}
+/* Feature foot area */
+.feature-foot{
+    background-color: #ECECEC;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30px;
+    padding: 100px 0;
+    width: 80%;
+    margin: 50px auto;
+    border-radius: 10px;
+}
+.feature-content{
+    background-color: #ECECEC;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.feature-content p{
+    color: #272727;
+    font-weight: 600;
+    margin-top: 15px;
+}
